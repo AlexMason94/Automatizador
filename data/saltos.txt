@@ -1,0 +1,8 @@
+Salto detectado entre PMa-41 ENDE D y PMa-43 ENDE D
+Salto detectado entre PC-311 ENDE D y PC-313 ENDE Dd-Rc-T
+Salto detectado entre PC-335 ENDE D y PC-337 ENDE D
+Salto detectado entre PC-458 ENDE T-Rc-T-DEV_FO y PC-460 ENDE D
+Salto detectado entre PC-467 ENDE Td y PC-469 ENDE P
+Salto detectado entre PMa-526 ENDE Td y PMa-528 ENDE Td-T
+Salto detectado entre PC-627 ENDE Td y PMa-629 ENDE T-Rc
+Salto detectado entre PMa-822 ENDE D-Rc y PMa-824 ENDE D

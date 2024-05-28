@@ -1,0 +1,12 @@
+Poste: PMa-41 ENDE D, Número original: 41, Número reasignado: 42
+Poste: PC-311 ENDE D, Número original: 311, Número reasignado: 312
+Poste: PC-335 ENDE D, Número original: 335, Número reasignado: 336
+Poste: PC-456 ENDE T-Td, Número original: 456, Número reasignado: 457
+Poste: PC-457 ENDE D-DEV_FO, Número original: 457, Número reasignado: 458
+Poste: PC-458 ENDE T-Rc-T-DEV_FO, Número original: 458, Número reasignado: 459
+Poste: PC-466 ENDE T-Td, Número original: 466, Número reasignado: 467
+Poste: PC-467 ENDE Td, Número original: 467, Número reasignado: 468
+Poste: PMa-526 ENDE Td, Número original: 526, Número reasignado: 527
+Poste: PMa-626 ENDE T-Td, Número original: 626, Número reasignado: 627
+Poste: PC-627 ENDE Td, Número original: 627, Número reasignado: 628
+Poste: PMa-822 ENDE D-Rc, Número original: 822, Número reasignado: 823

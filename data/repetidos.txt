@@ -1,0 +1,8 @@
+Número repetido 41: PC-41 ENDE Td-T; PMa-41 ENDE D
+Número repetido 311: PMa-311 ENDE Td-D; PC-311 ENDE D
+Número repetido 335: PMa-335 ENDE D; PC-335 ENDE D
+Número repetido 456: PC-456 ENDE D-Td; PC-456 ENDE T-Td
+Número repetido 466: PC-466 ENDE Td-T; PC-466 ENDE T-Td
+Número repetido 526: PMa-526 ENDE T-Td; PMa-526 ENDE Td
+Número repetido 626: PC-626 ENDE Td-T; PMa-626 ENDE T-Td
+Número repetido 822: PC-822 ENTEL D; PMa-822 ENDE D-Rc
